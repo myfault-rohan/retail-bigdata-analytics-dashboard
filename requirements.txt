@@ -1,0 +1,8 @@
+# Data Processing and Core Analytics
+pandas==2.3.3
+pyspark==4.1.1
+scikit-learn==1.8.0
+
+# Dashboard and UI
+streamlit==1.55.0
+matplotlib==3.10.8
