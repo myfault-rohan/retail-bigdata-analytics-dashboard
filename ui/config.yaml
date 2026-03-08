@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 1
+  key: retail_auth_cookie_signature_key
+  name: retail_dashboard_auth
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Administrator
+      password: $2b$12$0iT4Ho3R0TnJT3dnJqJxHO7fKXVa0t5XDuyWfROqZjLR3ZLb.fVJC
+    analyst:
+      email: analyst@example.com
+      name: Data Analyst
+      password: $2b$12$pScyJtBaVF2b5C9Ixz114OBsDK.vxA/9c2DMIrJqGbeMTKb819.Cm
+preauthorized:
+  emails:
+  - admin@example.com
+  - analyst@example.com
